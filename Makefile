@@ -1,3 +1,6 @@
+all: PutHTML
+
+
 PutHTML:
 	cp main.html /var/www/html/rockpapersissor/
 	cp script.js /var/www/html/rockpapersissor/
