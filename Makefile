@@ -4,7 +4,7 @@ PutHTML:
 	cp main.html /var/www/html/rockpapersissor/
 	cp script.js /var/www/html/rockpapersissor/
 	cp style.css /var/www/html/rockpapersissor/
-	cp sissor.png /var/www/html/rockpapersissor/
+	cp scissor.png /var/www/html/rockpapersissor/
 	cp rock.png /var/www/html/rockpapersissor/
 	cp paper.png /var/www/html/rockpapersissor/
 
